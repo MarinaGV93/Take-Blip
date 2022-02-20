@@ -1,4 +1,4 @@
-// Substituir numeros pares por 0
+// // Substituir numeros pares por 0
 function substituirPares(array) {
     if(!array) return -1;
     if(!array.length) return -1;
